@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkExpress.WebApi", "WebApi\WorkExpress.WebApi\WorkExpress.WebApi.csproj", "{E3189978-0271-40AB-BC94-58E29E339330}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkExpress.WebApi", "WebApi\WorkExpress.WebApi.csproj", "{E3189978-0271-40AB-BC94-58E29E339330}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkExpress.Domain", "Domain\WorkExpress.Domain\WorkExpress.Domain.csproj", "{0B26A36C-CAEA-4C30-BA61-D0CE4228FBC0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkExpress.Domain", "Domain\WorkExpress.Domain.csproj", "{0B26A36C-CAEA-4C30-BA61-D0CE4228FBC0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{AF99EDF2-C3CA-415D-A362-4A67FD57B199}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrokExpress.Application.Contracts", "Application\Contracts\WrokExpress.Application.Contracts\WrokExpress.Application.Contracts.csproj", "{37B6D74E-5C8F-4B54-BFE0-B77E2EE13076}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrokExpress.Application.Contracts", "Application\Contracts\WrokExpress.Application.Contracts.csproj", "{37B6D74E-5C8F-4B54-BFE0-B77E2EE13076}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkExpress.Application.Services", "Application\Services\WorkExpress.Application.Services\WorkExpress.Application.Services.csproj", "{432A2F99-5B6C-42F8-9B8C-D7C5E69B9056}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkExpress.Application.Services", "Application\Services\WorkExpress.Application.Services.csproj", "{432A2F99-5B6C-42F8-9B8C-D7C5E69B9056}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{32E3ABC7-BF8C-4149-B638-EA093F229DD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkExpress.Repository.Contracts", "Repository\Contracts\WorkExpress.Repository.Contracts\WorkExpress.Repository.Contracts.csproj", "{3B4E9ECE-BC2E-4B3C-BE02-D86697F49BC2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkExpress.Repository.Contracts", "Repository\Contracts\WorkExpress.Repository.Contracts.csproj", "{3B4E9ECE-BC2E-4B3C-BE02-D86697F49BC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkExpress.Repository.Data", "Repository\Data\WorkExpress.Repository.Data\WorkExpress.Repository.Data.csproj", "{7E1E4AD7-BBFF-47C0-9845-65A70988EBFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkExpress.Repository.Data", "Repository\Data\WorkExpress.Repository.Data.csproj", "{7E1E4AD7-BBFF-47C0-9845-65A70988EBFA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{06DD5685-5E63-43A8-9003-D392B1EBB545}"
 EndProject
